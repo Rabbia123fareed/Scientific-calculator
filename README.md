@@ -1,4 +1,4 @@
 # scientific-calculator
 
 
-CLICK to visit webpage:https://rabbia123fareed.github.io/scientific-calculator/ on 
+CLICK to visit webpage:https://github.com/Rabbia123fareed/scientific-calculator.git on 
